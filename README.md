@@ -1,6 +1,6 @@
 # Reuters-Command-Line
 A very basic command application that you gives you news from the Reuters website from the terminal
-Requires Python3.6 and Selenium
+<br/>Requires Python3.6 and Selenium
 
 # SYNTAX:
 `reuters <arg>`
